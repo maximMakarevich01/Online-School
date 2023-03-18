@@ -1,0 +1,29 @@
+[
+  {
+    "imageUrl": "../img/courses-1.png",
+    "shortName": "UI/UX Design",
+    "fullName": "UI/UX Design for Beginners",
+    "price": "98$",
+    "time": "34 hours",
+    "duration": "22 courses",
+    "sales": "250 sales"
+  },
+  {
+    "imageUrl": "../img/courses-2.png",
+    "shortName": "UI/UX Design",
+    "fullName": "UI/UX Design for Amateurs",
+    "price": "128$",
+    "time": "44 hours",
+    "duration": "35 courses",
+    "sales": "120 sales"
+  },
+  {
+    "imageUrl": "../img/courses-3.png",
+    "shortName": "UI/UX Design",
+    "fullName": "UI/UX Design for Profies",
+    "price": "200$",
+    "time": "100 hours",
+    "duration": "45 courses",
+    "sales": "50 sales"
+  }
+]

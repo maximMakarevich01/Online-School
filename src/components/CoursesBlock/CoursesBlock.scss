@@ -1,0 +1,114 @@
+.courses-card {
+  border: 1px solid #8a8a8a;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 7px;
+  padding: 8px;
+
+  .card-img {
+    max-width: 400px;
+    border-radius: 20px;
+  }
+
+  .courses-name {
+    font-family: "Poppins";
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+    padding-bottom: 2px;
+    color: #000000;
+  }
+
+  .courses-mail {
+    font-family: "Poppins";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    padding-bottom: 8px;
+    color: #8a8a8a;
+  }
+
+  .courses-description {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #acacac;
+  }
+
+  .card-rate {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+
+    .card-star {
+      cursor: pointer;
+    }
+  }
+
+  .card-price {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    color: #ff7426;
+  }
+
+  .card-society {
+    display: flex;
+    gap: 6px;
+  }
+
+  .card-property {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 12px;
+    border-top: 1px solid #acacac;
+
+    .card-item {
+      display: flex;
+      text-align: center;
+      align-items: center;
+      gap: 4px;
+
+      .property-text {
+        font-family: Poppins;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 24px;
+        color: #acacac;
+      }
+    }
+  }
+}
+
+.button-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 22px;
+
+  .card-btn {
+    text-align: center;
+    background-color: #ff7426;
+    border: 1px solid #ffff;
+    border-radius: 96px;
+    width: 207px;
+    height: 55px;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 29px;
+    color: #ffff;
+    cursor: pointer;
+    opacity: 0.4;
+  }
+
+  .card-btn:hover {
+    opacity: 1;
+  }
+}

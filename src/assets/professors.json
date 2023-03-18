@@ -1,0 +1,23 @@
+[
+  {
+    "imageUrl": "img/professor-1.png",
+    "name": "Matthew E. McNatt",
+    "mail": "Professor @George Brown College",
+    "description": "Ut enim ad minim veniam, quis nost exercitation ullamco laboris nisi ut allquip ex commodo.",
+    "profession": "Engineering physics"
+  },
+  {
+    "imageUrl": "img/professor-2.png",
+    "name": "Tracy D. Wright",
+    "mail": "Professor @Oxford",
+    "description": "Ut enim ad minim veniam, quis nost exercitation ullamco laboris nisi ut allquip ex commodo.",
+    "profession": "Frontend developer"
+  },
+  {
+    "imageUrl": "img/professor-3.png",
+    "name": "Garmiona Granger",
+    "mail": "Professor @Timothy Chalome College",
+    "description": "Ut enim ad minim veniam, quis nost exercitation ullamco laboris nisi ut allquip ex commodo.",
+    "profession": "Mathematics"
+  }
+]

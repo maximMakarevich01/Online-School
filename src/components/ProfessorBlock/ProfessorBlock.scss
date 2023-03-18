@@ -1,0 +1,59 @@
+.professor-card {
+  border: 1px solid #8a8a8a;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 7px;
+  padding: 8px;
+
+  .card-img {
+    max-width: 400px;
+    border-radius: 20px;
+  }
+
+  .professor-name {
+    font-family: "Poppins";
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+    padding-bottom: 2px;
+    color: #000000;
+  }
+
+  .professor-mail {
+    font-family: "Poppins";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    padding-bottom: 8px;
+    color: #8a8a8a;
+  }
+
+  .professor-description {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #acacac;
+  }
+
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .card-profession {
+      font-family: Poppins;
+      font-size: 18px;
+      font-weight: 500;
+      line-height: 27px;
+      color: #ff7426;
+    }
+
+    .card-society {
+      display: flex;
+      gap: 6px;
+    }
+  }
+}

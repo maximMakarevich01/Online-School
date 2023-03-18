@@ -1,0 +1,36 @@
+.courses-top {
+  margin-top: 20px;
+  margin-bottom: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  .courses-title {
+    font-family: "Jost";
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 70px;
+    padding-bottom: 4px;
+  }
+
+  .courses-subtitle {
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #8a8a8a;
+  }
+}
+.courses-sort {
+  margin-top: 6px;
+  margin-bottom: 22px;
+}
+
+.courses-list {
+  margin-top: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}

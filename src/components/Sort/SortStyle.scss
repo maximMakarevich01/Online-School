@@ -1,0 +1,20 @@
+.sort_label {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Roboto";
+  cursor: pointer;
+
+  span {
+    padding-left: 7px;
+  }
+
+  .sort_popup {
+    position: relative;
+    left: 7.3%;
+
+    .active {
+      color: #4d2c5e;
+      font-weight: 700;
+    }
+  }
+}
